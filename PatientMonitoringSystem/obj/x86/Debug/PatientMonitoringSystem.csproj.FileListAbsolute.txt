@@ -1,0 +1,6 @@
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/bin/Debug/PatientMonitoringSystem.exe
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/bin/Debug/PatientMonitoringSystem.pdb
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/obj/x86/Debug/PatientMonitoringSystem.csprojAssemblyReference.cache
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/obj/x86/Debug/PatientMonitoringSystem.csproj.CoreCompileInputs.cache
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/obj/x86/Debug/PatientMonitoringSystem.exe
+/Users/ogandragonetti/Projects/PatientMonitoringSystem/PatientMonitoringSystem/obj/x86/Debug/PatientMonitoringSystem.pdb

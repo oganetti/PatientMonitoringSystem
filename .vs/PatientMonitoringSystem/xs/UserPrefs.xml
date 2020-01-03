@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{39D46416-ECA6-4136-B496-4CE9AA3A986F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatientMonitoringSystem/Properties/Devices/AlertMeasurement.cs">
+    <Files>
+      <File FileName="PatientMonitoringSystem/Program.cs" Line="66" Column="10" />
+      <File FileName="PatientMonitoringSystem/Properties/Devices/AlertMeasurement.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatientMonitoringSystem" expanded="True">
+            <Node name="PatientMonitoringSystem" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="Devices" expanded="True">
+                  <Node name="AlertMeasurement.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatientMonitoringSystem PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
